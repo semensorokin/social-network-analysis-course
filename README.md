@@ -6,7 +6,7 @@ Hi! Current repo contains materials for course **Social Network Analysis**: pres
 
 Week # | Lecture video | Date | Additional materials 
 --- | --- | --- | --- 
-1 | [Intro. Terminology](https://youtu.be/mdW3b9jcO6I) |  12.11.21 |
+1 | [Intro. Terminology](https://youtu.be/Vb47zT77czQ) |  12.11.21 |
 2 | [Random graph. Descriptive network analysis](https://youtu.be/bRDyjRpITV0)| 26.11.21 |
 
 
