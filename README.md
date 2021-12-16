@@ -4,10 +4,10 @@
 Hi! Current repo contains materials for course **Social Network Analysis**: presentations, practice and hw notebooks. 
 
 
-Week # | Lecture video | Additional materials 
---- | --- | --- 
-1 | [Intro. Terminology](https://youtu.be/mdW3b9jcO6I)  |  
-2 | [Random graph. Descriptive network analysis](https://youtu.be/bRDyjRpITV0)|
+Week # | Lecture video | Date | Additional materials 
+--- | --- | --- | --- 
+1 | [Intro. Terminology](https://youtu.be/mdW3b9jcO6I) |  12.11.21 |
+2 | [Random graph. Descriptive network analysis](https://youtu.be/bRDyjRpITV0)| 26.11.21 |
 
 
 
